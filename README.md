@@ -15,3 +15,6 @@ Licença
 -------
 
 [Licença MIT](LICENSE)
+MIT License
+Copyright (c) 2020 Eduardo Luís Bartholomay
+Código modificado por Bruno Campos
